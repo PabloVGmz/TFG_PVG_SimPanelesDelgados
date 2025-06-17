@@ -1,3 +1,0 @@
-FUENTES:
-
-https://www2.compute.dtu.dk/~apek/DGFEMCourse/Material.php
