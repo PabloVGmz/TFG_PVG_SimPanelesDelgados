@@ -1,0 +1,3 @@
+[submodule "external/PyDG1D"]
+	path = external/PyDG1D
+	url = https://github.com/PabloVGmz/PyDG1D.git
